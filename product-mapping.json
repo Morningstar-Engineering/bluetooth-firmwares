@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": "mc8pro",
+      "name": "MC8 Pro",
+      "description": "Morningstar MC8 Pro Bluetooth Module",
+      "repository": "Morningstar-Engineering/bluetooth-firmwares",
+      "firmwarePath": "mc8pro/latest",
+      "icon": "fas fa-microchip",
+      "category": "bluetooth-modules",
+      "supported": true,
+      "defaultBaudRate": 115200
+    },
+    {
+      "id": "mc4pro",
+      "name": "MC4 Pro",
+      "description": "Morningstar MC4 Pro Bluetooth Module",
+      "repository": "Morningstar-Engineering/bluetooth-firmwares",
+      "firmwarePath": "mc4pro/latest",
+      "icon": "fas fa-microchip",
+      "category": "bluetooth-modules",
+      "supported": true,
+      "defaultBaudRate": 115200
+    }
+  ],
+  "categories": [
+    {
+      "id": "bluetooth-modules",
+      "name": "Bluetooth Modules",
+      "description": "Morningstar Engineering Bluetooth communication modules"
+    }
+  ],
+  "defaultProduct": "mc8pro",
+  "version": "1.0.0",
+  "lastUpdated": "2025-08-05"
+} 
