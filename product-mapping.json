@@ -9,7 +9,7 @@
       "icon": "fas fa-microchip",
       "category": "bluetooth-modules",
       "supported": true,
-      "defaultBaudRate": 115200
+      "defaultBaudRate": 921600
     },
     {
       "id": "mc4pro",
@@ -20,7 +20,7 @@
       "icon": "fas fa-microchip",
       "category": "bluetooth-modules",
       "supported": true,
-      "defaultBaudRate": 115200
+      "defaultBaudRate": 921600
     }
   ],
   "categories": [
